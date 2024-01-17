@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example of ID attribute in CSS</title>
+        <style>
+            #cars{
+                padding: 40px;
+                background-color: lightblue;
+                color: black;
+                text-align: center;
+            }
+            #bikes
+            {
+                padding: 50px;
+                background-color: lightgreen;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <p>Use CSS to style an element with the id:</p>
+        <h1 id="cars">cars</h1>
+        <h1 id="bikes">bikes</h1>
+    </body>
+</html>
